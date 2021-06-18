@@ -1,3 +1,3 @@
 # Pong
  
-Pong Game using Phaser.
+Pong Game using Phaser following Ourcade video tutorials.
